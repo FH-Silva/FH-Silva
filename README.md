@@ -17,6 +17,7 @@
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FH-Silva&show_icons=true&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/FH-Silva))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FH-Silva&layout=compact&theme=tokyonight)
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" width="40"/>
