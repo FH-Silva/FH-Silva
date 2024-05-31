@@ -3,7 +3,7 @@
 
 - 🎓 Programming student and passionate about technology
 
-- 💻 Currently improving my front-end skills. However, my eyes are on the back end, with Java and C#, where I intend to focus my future efforts.
+- 💻 Currently improving my programming skills. However, my eyes are on the back end, with Java and C#, where I intend to focus my future efforts.
 
 - 📫 Let's exchange ideas about technology, programming, coffee and collaborate? Find me at:
 
