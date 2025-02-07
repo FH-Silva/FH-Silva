@@ -1,7 +1,7 @@
 # Hi there, I'm Fabio Henrique 👋
 
 
-- 🎓 Programming student and passionate about technology
+- 🎓 IT student and passionate about technology
 
 - 💻 Currently improving my programming skills. However, my eyes are on the back end, with Java and C#, where I intend to focus my future efforts.
 
