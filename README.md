@@ -3,7 +3,7 @@
 
 - 🎓 IT student and passionate about technology
 
-- 💻 Currently improving my programming skills. However, my eyes are on the back end, with Java and C#, where I intend to focus my future efforts.
+- 💻 Currently improving my programming and cybersecurity skills. However, my eyes are focused on the information security area, where I currently work.
 
 - 📫 Let's exchange ideas about technology, programming, coffee and collaborate? Find me at:
 
